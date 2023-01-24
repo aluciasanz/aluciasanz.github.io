@@ -5,13 +5,16 @@ layout: default
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Bio
-Enter here your bio
-
+<table>
+  <tr>
+  <td>
+      <img src="portrait-als.png" alt="portrait">
+  </td>
+    <td>I'm currently a postdoctoral fellow at Georgia Tech in Atlanta, and I've been working with <a href="https://weitzgroup.biosci.gatech.edu/">Joshua Weitz's group</a> since March 2020. I earned my PhD. in virus evolution under the supervision of <a href="https://auditore.cab.inta-csic.es/manrubia/">Dr. Susanna Manrubia</a> at the Universidad Autonoma de Madrid, Spain. My main research interest is trying to understand how biological systems behave, both quantitatively and qualitatively. I'm particularly interested in how to describe these systems at a very grounded level and in understanding how well models can capture the phenomena we observe in nature. I combine theoretical, computational and bioinformatic tools in my approach.
+  </td>
+  </tr>
+  </table>
 ## Education
 
 > list of education
