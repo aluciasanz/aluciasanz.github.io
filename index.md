@@ -2,8 +2,9 @@
 layout: default
 ---
 
+[Research](./research.html)
+[Publications](./publications.html)
 
-[Publications](./publications.html).
 
 # Bio
 <table>
