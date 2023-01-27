@@ -14,10 +14,19 @@ description: Personal website
   </td>
     <td> text
   </tr>
-  </table>
+ </table>
 
 
 
 ## Infectious Disease Dynamics
+
+<table>
+  <tr>
+  <td>
+      image 
+  </td>
+    <td> text
+  </tr>
+ </table>
 
 [back](./)
