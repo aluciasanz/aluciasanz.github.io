@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[Link to another page](./another-page.html).
+[Publications](./another-page.html).
 
 # Bio
 <table>
