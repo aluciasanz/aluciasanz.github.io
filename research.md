@@ -6,36 +6,19 @@ description: Personal website
 
 # Resarch
 
-## Microbial Ecology & Evolution
+## Viral Ecology & Evolution
 
-### Viral Cooperation 
+#### Virus-host coevolution
+Viral interactions with microbial hosts modulate the structure and function of microbial communities. These interactions can evolve rapidly even on short, experimental timescales, driving widespread changes in the composition of coevolving microbial and viral communities. To understand virus-microbe dynamics, it is necessary to examine microbe-microbe interactions. Nonlinear interactions between individual microbes, especially in complex and diverse communities, can generate unexpected emergent phenomena that are not apparent when studying the system at the individual scale.
+
+#### Viral Cooperation 
 Cooperation is a main driver of biological complexity at all levels. In the viral world, gene sharing among viral genomes, complementation between genomes or interactions within quasispecies are frequently observed. I'm interest in exploring the effects of flexible associations between viruses and subviral entities, such as virus satellites, in viral dynamics and, in particular, in stable viral coexistence. The virus-satellite association differs from other mechanisms proposed in ecology to date to enhance species coexistence. 
 
-### Origins of multipartitism
-Multipartitism counts amongst the weirdest lifestyles found in the virosphere. Multipartite viruses have genomes segmented in pieces enclosed in different capsids that are independently transmitted. Since all segments have to meet in the host for complementation and completion of the viral cycle, multipartite viruses are bound to fight the loss of genomic information. While this is an obvious disadvantage of this strategy, no consensus on its actual advantages has been reached. In agreement with the view of the Virosphere as a deeply entangled network of gene sharing, we contend that the power of multipartitism relies on its dynamical and opportunistic nature, because it enables immediate adaptive responses to environmental changes. As such, perhaps the reasons for its success should be shought in multipartitism itself as an adaptive mechanism, to which its evolutionarily short-lived products (that is, the extant ensemble of multipartite viral species) are subordinated. 
-
-### Virus-host coevolution
-
-<table>
-  <tr>
-  <td>
-      image
-  </td>
-    <td> text
-  </tr>
- </table>
-
+#### Origins of multipartite genomes
+Multipartitism is a strange lifestyle found in viruses. These viruses have segmented genomes enclosed in different capsids that are transmitted independently. For the virus to complete its cycle, all segments must come together in the host. Whereas multipartitism creates a clear disadvantage as the virus fights the struggle of genomic loss, it's power lies in its dynamic and opportunistic nature because it enables immediate adaptive responses to environmental changes. The reasons for its success should be shought in multipartitism itself as an adaptive mechanism, to which its evolutionarily short-lived products (that is, the extant ensemble of multipartite viral species) are subordinated. 
 
 
 ## Infectious Disease Dynamics
-
-<table>
-  <tr>
-  <td>
-      image 
-  </td>
-    <td> text
-  </tr>
- </table>
+My research focuses on transmission dynamics through a combination of theoretical and empirical approaches. Specifically, I investigate the transmission of COVID-19 in long-term care facilities and nursing homes.
 
 [back](./)
