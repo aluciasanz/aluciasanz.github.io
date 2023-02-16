@@ -4,6 +4,7 @@ layout: default
 
 [Research](./research.html)
 [Publications](./publications.html)
+[Teaching](./teaching.html)
 
 
 # Bio
