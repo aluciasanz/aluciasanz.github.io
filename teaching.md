@@ -10,15 +10,14 @@ As part of a larger multi-scale course (credit to Joshua S. Weitz) I taught a mo
 
 <table>
   <tr>
-  <td>
-   2021--2022
+  <td style="color:#159957;"> 2021-2022
   </td>
     <td> <b>Instructor of record </b>  of Foundations in Quantitative Biosciences, Quantitative Biosciences graduate program at Georgia Institute of Technology
   </td>
   </tr>
       
   <tr>
-  <td>
+  <td style="color:#159957;">
    Summer 2022
   </td>
     <td> <b>Instructor of record </b>Quantitative foundations of biological concepts Serrapilheira/ICTP-SAIFR Training Program in Quantitative Biology and Ecology, Sao Paulo, Brazil.
@@ -26,7 +25,7 @@ As part of a larger multi-scale course (credit to Joshua S. Weitz) I taught a mo
   </tr>
 
   <tr>
-  <td>
+  <td style="color:#159957;">
    Spring 2021
   </td>
     <td> <b>Graduate teaching assistant</b> Fifth Annual Quantitative Biosciences Hands-on Workshop, Quantitative Biosciences graduate program at Georgia Tech.
@@ -34,8 +33,8 @@ As part of a larger multi-scale course (credit to Joshua S. Weitz) I taught a mo
   </tr>
   
   <tr>
-  <td>
-2017--2018
+  <td style="color:#159957;">
+2017-2018
   </td>
     <td> <b> Graduate teaching assistant</b> Department of Molecular Biology department at the Universidad Autonoma de Madrid
   </td>
