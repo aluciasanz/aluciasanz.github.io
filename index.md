@@ -17,3 +17,8 @@ layout: default
   </td>
   </tr>
   </table>
+
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!-- Add font awesome icons -->
+<a href="linkedin.com/in/adriana-lucia-sanz-864bb560" class="fa fa-linkedin"></a>
