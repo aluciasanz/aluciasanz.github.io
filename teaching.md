@@ -14,8 +14,8 @@ My priority as a teacher is to help students develop critical thinking skills by
   
 </table>
   <tr>
-  <td> <img src="teaching-ictp.png" alt="portrait"> </td>
-   <td> <img src="teaching-noise.png" alt="portrait"></td>
+  <td> <img src="teaching_ictp.png" alt="portrait"> </td>
+   <td> <img src="teaching_noise.png" alt="portrait"></td>
   </tr>
   
 <table>
