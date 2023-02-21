@@ -21,7 +21,7 @@ My priority as a teacher is to help students develop critical thinking skills by
   </tr>
 </table>
 
-  
+### Experience      
 <table>
   <tr>
   <td style="color:#159957;"> 2021-2022
@@ -29,12 +29,12 @@ My priority as a teacher is to help students develop critical thinking skills by
     <td> <b>Instructor of record </b>  of Foundations in Quantitative Biosciences, Quantitative Biosciences graduate program at Georgia Institute of Technology
   </td>
   </tr>
-      
+
   <tr>
   <td style="color:#159957;">
    Summer 2022
   </td>
-    <td> <b>Instructor of record </b>Quantitative foundations of biological concepts Serrapilheira/ICTP-SAIFR Training Program in Quantitative Biology and Ecology, Sao Paulo, Brazil.
+    <td> <b>Instructor of record </b>Quantitative Foundations of Biological Concepts Serrapilheira/ICTP-SAIFR Training Program in Quantitative Biology and Ecology, Sao Paulo, Brazil.
   </td>
   </tr>
 
