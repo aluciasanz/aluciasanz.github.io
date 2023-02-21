@@ -10,7 +10,7 @@ description: Personal website
 
 My priority as a teacher is to help students develop critical thinking skills by creating an active learning environment where everyone feels included stimulate student engagement and reinforcing integration of knowledge. I most recently taught a course on comprehending the organization and operation of cells, highlighting the inherent stochasticity and fluctuations of biological processes such as gene expression, regulation, mutation, and evolution.  Through a series of hands-on tutorials, journal club discussions, problem solving exercises sudents acquire skills in the use of mathematical and computational tools, such as: memory-less stochastic models, ode integration, stability analysis of ode systems, and more. Overall, this course includes a broad range of analytical and problem-solving skills, which can be applied to many different fields within the biological sciences.
 
-<table>
+<table class="center">
   <tr>
     <td> <img src="teaching_ictp.png" alt="ictp" style="width:300px;height:300px;"> </td>
     <td> <img src="teaching_noise.png" alt="noise" style="width:300px;height:300px;" ></td>
