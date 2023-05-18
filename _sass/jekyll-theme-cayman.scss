@@ -69,7 +69,7 @@ a {
   border-color: rgba(255, 255, 255, 0.2);
   border-style: solid;
   border-width: 1px;
-  border-radius: 0.3rem;
+  border-radius: 0.3rem;.bg-img
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 
   &:hover {
@@ -109,7 +109,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color),url("thumbnail.png");
 
   @include large {
     padding: 5rem 6rem;
