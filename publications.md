@@ -8,6 +8,8 @@ description: Personal website
 
 ## 2023
 
+JM Borin, JJ Lee, A Lucia-Sanz, KR Gerbino, JM Weitz, JR Meyer <a href="https://www.biorxiv.org/content/10.1101/2023.04.13.536812v1.abstract">Rapid bacteria-phage coevolution drives the emergence of multi-scale networks</a> bioRxiv, 2023.doi: https://doi.org/10.1101/2023.04.13.536812 
+
 A Lucia-Sanz, A Magalie, R Rodriguez-Gonzalez, CY Leung, JS Weitz. <a href="https://www.sciencedirect.com/science/article/pii/S104727972200268X">Modeling shield immunity to reduce COVID-19 transmission in long-term care facilities</a>, Annals of Epidemiology 77, 44-52.
 
 ## 2022
