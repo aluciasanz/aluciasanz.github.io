@@ -110,11 +110,15 @@ a {
 	height: 250px;
 }
 .page-header {
-  color: $header-heading-color;
+  color: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);//$header-heading-color;
   text-align: center;
   //background-color: $header-bg-color;
-  background-image:linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);//url(https://aluciasanz.github.io/thumbnail.png);
-
+  background-image:url(https://aluciasanz.github.io/thumbnail.png);//linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);//
+  padding: 0;
+  display: block;
+  margin: 0 auto;
+  max-height: 100%;
+  max-width: 100%;
   @include large {
     padding: 5rem 6rem;
   }
