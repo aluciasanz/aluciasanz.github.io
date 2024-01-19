@@ -5,6 +5,9 @@ description: Personal website
 ---
 
 # Publications
+## 2024
+
+A Lucia-Sanz, S Peng, CY Leung, A Gupta, JR Meyer and JS Weitz <a href="https://www.biorxiv.org/content/10.1101/2024.01.08.574707v1.full"> Inferring strain-level mutational drivers of phage-bacteria interaction phenotypes</a>, <i> bioRxiv </i> doi: https://doi.org/10.1101/2024.01.08.574707
 
 ## 2023
 
@@ -24,7 +27,7 @@ Virus Evolution 8 (1), veac037.
 
 A Lucía-Sanz, J Aguirre, S Manrubia. <a href="https://www.sciencedirect.com/science/article/pii/S1879625718300385">Theoretical approaches to disclosing the emergence and adaptive advantages of multipartite viruses</a>, Current Opinion in Virology 33, 89-95.
 
-YI Wolf, D Kazlauskas, J Iranzo, A Lucía-Sanz, JH Kuhn, M Krupovic, VV Dolja, EV Koonin. <a href="https://journals.asm.org/doi/full/10.1128/mBio.02329-18">Origins and evolution of the global RNA virome</a>, MBio 9 (6), e02329-18.
+YI Wolf, D Kazlauskas, J Iranzo, A Lucía-Sanz, JH Kuhn, M Krupovic, VV Dolja, EV Koonin. <a href="https://journals.asm.org/doi/full/10.1128/mBio.02329-18">Origins and evolution of the global RNA virome</a>, mBio 9 (6), e02329-18.
 
 ## 2017
 
