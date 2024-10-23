@@ -4,7 +4,7 @@ title: Adriana Lucia-Sanz
 description: Personal website
 ---
 
-# Resarch
+# Research
 My research focuses on the complex interactions between viruses, either with other viruses, their hosts, or the environment, and how these interactions impact viral behavior, evolution and ecology.
 * [Virus-virus interactions](#virus-sociality-ecology-&-evolution) and [virus-satellite interactions](#virus-satellite-interactions), where I explore how viruses (or viruses and satellite) influence each other’s life cycles, replication, and spread.
 * [Virus-to-virus communication](#virus-to-virus-communication) where I examine potential signaling between viruses to coordinate viral behavior.  
