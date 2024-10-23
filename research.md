@@ -6,7 +6,7 @@ description: Personal website
 
 # Research
 My research focuses on the complex interactions between viruses, either with other viruses, their hosts, or the environment, and how these interactions impact viral behavior, evolution and ecology.
-* [Virus-virus interactions](#virus-sociality-ecology-&-evolution) and [virus-satellite interactions](#virus-satellite-interactions), where I explore how viruses (or viruses and satellite) influence each other’s life cycles, replication, and spread.
+* [Virus-virus interactions](#virus-sociality-ecology-and-evolution) and [virus-satellite interactions](#virus-satellite-interactions), where I explore how viruses (or viruses and satellite) influence each other’s life cycles, replication, and spread.
 * [Virus-to-virus communication](#virus-to-virus-communication) where I examine potential signaling between viruses to coordinate viral behavior.  
 * [Viral genome interactions](#multipartite-viruses), where I explore multipartite or multicomponent viruses emergece, evolution and prevalence.
 * [Virus-host interactions](#virus-host-coevolution), in the context of coevolution I try to address the reciprocal evolutionary changes between viruses and their hosts, which shapes viral strategies for infection and host defenses over time, and in the context of [infectious disease dynamics](#infectious-disease-dynamics) I focus on how viruses spread and evolve within the host, modeling factors such as transmission rates, viral evolution, and the effects of interventions.
