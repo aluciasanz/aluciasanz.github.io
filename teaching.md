@@ -24,7 +24,7 @@ My priority as a teacher is to help students develop critical thinking skills by
 ### Experience      
 <table>
   <tr>
-  <td style="color:#159957;"> 2021-2023
+  <td style="color:#159957;"> 2021-2024
   </td>
     <td> <b>Instructor of record </b>  of Foundations in Quantitative Biosciences, Quantitative Biosciences graduate program at Georgia Institute of Technology
   </td>
