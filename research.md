@@ -12,7 +12,7 @@ My research focuses on the complex interactions between viruses, either with oth
 * [Virus-host interactions](#virus-host-coevolution), in the context of coevolution I try to address the reciprocal evolutionary changes between viruses and their hosts, which shapes viral strategies for infection and host defenses over time, and in the context of [infectious disease dynamics](#infectious-disease-dynamics) I focus on how viruses spread and evolve within the host, modeling factors such as transmission rates, viral evolution, and the effects of interventions.
 * Virus-environment interactions, explore environmental factors influencing viral evolution and ecology.
 
-## Virus sociality ecology & evolution
+## Virus sociality ecology and evolution
 Cooperation is a main driver of biological complexity at all levels. In the viral world, gene sharing among viral genomes, complementation between genomes or interactions within coinfections are frequently observed. Besides, viruses are main vehicles of horizontal gene transfer acting as pools of gene diversity, and function.  I'm interested in exploring and quantifying the effects of the interaction between viruses as a viral strategy to succeed.
 
 ### Virus-satellite interactions
