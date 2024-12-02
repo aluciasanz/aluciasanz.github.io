@@ -18,7 +18,7 @@ A Lucia-Sanz, A Magalie, R Rodriguez-Gonzalez, CY Leung, JS Weitz (2023) <a href
 
 ## 2022
 
-A Lucia-Sanz, J Aguirre, A Fraile, F Garcia-Arenal, S Manrubia (2022) <a href="https://www.frontiersin.org/journals/virology/articles/10.3389/fviro.2022.929851">Defective subviral particles modify ecological equilibria and enhance viral coexistence</a>, <i>Front Virol<\i> 2, doi: 10.3389/fviro.2022.929851.
+A Lucia-Sanz, J Aguirre, A Fraile, F Garcia-Arenal, S Manrubia (2022) <a href="https://www.frontiersin.org/journals/virology/articles/10.3389/fviro.2022.929851">Defective subviral particles modify ecological equilibria and enhance viral coexistence</a>, <i>Front Virol</i> 2, doi: 10.3389/fviro.2022.929851.
 
 S Shivam, G Li, A Lucia-Sanz, JS Weitz (2022) <a href="https://academic.oup.com/ve/article/8/1/veac037/6577223">Timescales modulate optimal lysis–lysogeny decision switches and near-term phage reproduction</a>, <i>Virus Evol</i> 8, veac037. doi: https://doi.org/10.1093/ve/veac037
 
