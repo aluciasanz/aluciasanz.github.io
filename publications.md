@@ -12,7 +12,7 @@ A Lucia-Sanz, S Peng, CY Leung, A Gupta, JR Meyer and JS Weitz (2024) <a href="h
 
 ## 2023
 
-JM Borin, JJ Lee, A Lucia-Sanz, KR Gerbino, JM Weitz, JR Meyer (2023) <a href="https://www.science.org/doi/10.1126/science.adi5536">Rapid bacteria-phage coevolution drives the emergence of multi-scale networks</a>, <i>Science</i> 382, 674-678. doi: https://doi.org/10.1101/2023.04.13.536812 
+JM Borin, JJ Lee, A Lucia-Sanz, KR Gerbino, JS Weitz, JR Meyer (2023) <a href="https://www.science.org/doi/10.1126/science.adi5536">Rapid bacteria-phage coevolution drives the emergence of multi-scale networks</a>, <i>Science</i> 382, 674-678. doi: https://doi.org/10.1101/2023.04.13.536812 
 
 A Lucia-Sanz, A Magalie, R Rodriguez-Gonzalez, CY Leung, JS Weitz (2023) <a href="https://www.sciencedirect.com/science/article/pii/S104727972200268X">Modeling shield immunity to reduce COVID-19 transmission in long-term care facilities</a>, <i>Ann Epidemiol</i> 77, 44-52. doi: https://doi.org/10.1016/j.annepidem.2022.10.013
 
